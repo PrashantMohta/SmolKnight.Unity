@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 453fbb44d53d5024391df8ee34037cda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3436798381722651354
+    second: shaman sprites_0
+  - first:
+      213: -100537154657357286
+    second: shaman sprites_1
+  - first:
+      213: 3258134565743024586
+    second: shaman sprites_2
+  - first:
+      213: -5950826422998353699
+    second: shaman sprites_3
+  - first:
+      213: -8273123081653930725
+    second: shaman sprites_4
+  - first:
+      213: -3250497906582949226
+    second: shaman sprites_5
+  - first:
+      213: 7460064905074020856
+    second: shaman sprites_6
+  - first:
+      213: 5676042967572702343
+    second: shaman sprites_7
+  - first:
+      213: -2883112584412389868
+    second: shaman sprites_8
+  - first:
+      213: 8122206755611695869
+    second: shaman sprites_9
+  - first:
+      213: 1377751151883979603
+    second: shaman sprites_10
+  - first:
+      213: -4622908158410437146
+    second: shaman sprites_11
+  - first:
+      213: 7548114275314961298
+    second: shaman sprites_12
+  - first:
+      213: 1139526747638732315
+    second: shaman sprites_13
+  - first:
+      213: -6501442355663877335
+    second: shaman sprites_14
+  - first:
+      213: 6462840337797302202
+    second: shaman sprites_15
+  - first:
+      213: 640425362693259720
+    second: shaman sprites_16
+  - first:
+      213: -7568243701560331112
+    second: shaman sprites_17
+  - first:
+      213: -8673000192915762489
+    second: shaman sprites_18
+  - first:
+      213: 3063483126485994278
+    second: shaman sprites_19
+  - first:
+      213: -3390795606340915592
+    second: shaman sprites_20
+  - first:
+      213: -2510906586335808465
+    second: shaman sprites_21
+  - first:
+      213: -7192597046986191986
+    second: shaman sprites_22
+  - first:
+      213: 2593666421986464935
+    second: shaman sprites_23
+  - first:
+      213: -3268230856057308385
+    second: shaman sprites_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 1303, z: 1130, w: 21}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shaman sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1306
+        width: 180
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada47335be5f1bf20800000000000000
+      internalID: 3436798381722651354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1306
+        width: 180
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a127be19df1da9ef0800000000000000
+      internalID: -100537154657357286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1305
+        width: 179
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9d88d0028373d20800000000000000
+      internalID: 3258134565743024586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1306
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bc29a5ea6a6da0800000000000000
+      internalID: -5950826422998353699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1306
+        width: 180
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15beeed366ff2d80800000000000000
+      internalID: -8273123081653930725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 869
+        width: 203
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f8f63069e3e2d0800000000000000
+      internalID: -3250497906582949226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 868
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19b4c8189778760800000000000000
+      internalID: 7460064905074020856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 867
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784660c810b55ce40800000000000000
+      internalID: 5676042967572702343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 866
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e14ae31602df7d0800000000000000
+      internalID: -2883112584412389868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 868
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa538cc200e7b070800000000000000
+      internalID: 8122206755611695869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 866
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b0eec7f51ce1310800000000000000
+      internalID: 1377751151883979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 868
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc0bce58128dfb0800000000000000
+      internalID: -4622908158410437146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 866
+        width: 202
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b043811f940c860800000000000000
+      internalID: 7548114275314961298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 868
+        width: 202
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16101d1a8960df00800000000000000
+      internalID: 1139526747638732315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 869
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc9f6af9c36c5a0800000000000000
+      internalID: -6501442355663877335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 668
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7497eab0f90b950800000000000000
+      internalID: 6462840337797302202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 667
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18b78697f33e800800000000000000
+      internalID: 640425362693259720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 667
+        width: 202
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b8e2a37238f690800000000000000
+      internalID: -7568243701560331112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 668
+        width: 203
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29c5ca64053a780800000000000000
+      internalID: -8673000192915762489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 666
+        width: 202
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bc9992cada38a20800000000000000
+      internalID: 3063483126485994278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 666
+        width: 202
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e281a7c5971f0d0800000000000000
+      internalID: -3390795606340915592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 666
+        width: 202
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f34953c7772dd0800000000000000
+      internalID: -2510906586335808465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 667
+        width: 201
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4dd10813ce2c90800000000000000
+      internalID: -7192597046986191986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 668
+        width: 201
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49c547edd8ef320800000000000000
+      internalID: 2593666421986464935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shaman sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 667
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbbbc2a59e4a2d0800000000000000
+      internalID: -3268230856057308385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
